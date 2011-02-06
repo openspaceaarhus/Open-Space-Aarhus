@@ -1,0 +1,8 @@
+# $Id: hosts 97 2010-08-13 09:21:02Z brix $
+
+127.0.0.1               localhost localhost.bryggervej.osaa.dk
+::1                     localhost localhost.bryggervej.osaa.dk
+
+10.0.0.1                mother mother.bryggervej.osaa.dk
+10.0.1.1                mother mother.bryggervej.osaa.dk
+10.0.2.1                mother mother.bryggervej.osaa.dk
