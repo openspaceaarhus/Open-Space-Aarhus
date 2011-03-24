@@ -4,4 +4,3 @@
 4) Edit new sla with text editor to search'n replace old eps name with new.
 5) Edit new sla with scribus
 6) Export pdf + print.
-
