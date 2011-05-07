@@ -13,7 +13,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="prisliste.svg">
   <defs
      id="defs4">
@@ -102,16 +102,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="504.99394"
-     inkscape:cy="505.66262"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="285.06902"
+     inkscape:cy="644.7717"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3954"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="696"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-height="994"
+     inkscape:window-x="1680"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -823,23 +823,23 @@
                y="405.93817"
                x="83.036766"
                id="tspan2935"
-               sodipodi:role="line">Pilsner</tspan></text>
+               sodipodi:role="line">Red Bull</tspan></text>
           <text
              id="text2937"
              y="412.65817"
-             x="654.87701"
+             x="660.87701"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bender;-inkscape-font-specification:Bender"
              xml:space="preserve"><tspan
                y="412.65817"
-               x="654.87701"
+               x="660.87701"
                id="tspan2939"
-               sodipodi:role="line">20</tspan><tspan
+               sodipodi:role="line">15</tspan><tspan
                id="tspan3037"
                y="462.65817"
-               x="654.87701"
+               x="660.87701"
                sodipodi:role="line" /><tspan
                y="512.6582"
-               x="654.87701"
+               x="660.87701"
                sodipodi:role="line"
                id="tspan2851" /></text>
         </g>
@@ -1033,23 +1033,23 @@
                y="405.93817"
                x="83.036766"
                id="tspan2935-03"
-               sodipodi:role="line">Pilsner</tspan></text>
+               sodipodi:role="line">Red Bull</tspan></text>
           <text
              id="text2937-7"
              y="412.65817"
-             x="654.87701"
+             x="662.87701"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bender;-inkscape-font-specification:Bender"
              xml:space="preserve"><tspan
                y="412.65817"
-               x="654.87701"
+               x="662.87701"
                id="tspan2939-8"
-               sodipodi:role="line">20</tspan><tspan
+               sodipodi:role="line">15</tspan><tspan
                id="tspan3037-8"
                y="462.65817"
-               x="654.87701"
+               x="662.87701"
                sodipodi:role="line" /><tspan
                y="512.6582"
-               x="654.87701"
+               x="662.87701"
                sodipodi:role="line"
                id="tspan2851-6" /></text>
         </g>
