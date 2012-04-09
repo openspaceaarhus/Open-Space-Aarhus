@@ -29,10 +29,13 @@ T3:   Næste gang er den 17 april og programmet
    Vi har mange af de maskiner der ikke er plads til i en lejlighed og
    som er lidt for dyre at købe til et enkelt projekt.
    
-   - Drejebænk
-   - Søjleboremaskine
-   - Bordrundsav
+   Drejebænk,
+   Søjleboremaskine   - Bordrundsav
    - håndværktøj
+
+* Medlemsskab
+
+** blå brik
 
 ** Komponenter
    Vi har et bredt udvalg af komponenter som vores medlemmer kan
@@ -82,7 +85,7 @@ T3:   Næste gang er den 17 april og programmet
    tekst om processing og vores workshops
 
 * Elektronik
-  - osciloskoper
+,  - osciloskoper
   - måleinstrumenter
   - frekvensgenatorer
 
