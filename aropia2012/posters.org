@@ -24,6 +24,9 @@ T3:   Næste gang er den 17 april og programmet
 * Lokaler
 
 ** Bryggervej 30
+*** Mødelokaler
+    - tavler
+    - projector
 
 ** Maskinpark
    Vi har mange af de maskiner der ikke er plads til i en lejlighed og
@@ -32,10 +35,47 @@ T3:   Næste gang er den 17 april og programmet
    Drejebænk,
    Søjleboremaskine   - Bordrundsav
    - håndværktøj
+*** Elektronik
+,  - osciloskoper
+  - måleinstrumenter
+  - frekvensgenatorer
+
 
 * Medlemsskab
 
 ** blå brik
+
+** Foreninger
+ Hack Aarhus,Ubuntu Aarhus,Seniorer Uden grænser,Free Software Europe
+ Fellowship meetings,Django,Tesla klub,Hacking For Humanity,
+
+* 3D
+
+** Photonsaw
+   Et stort project med 80 watts CO2 laser, hjemmebygget fra
+   bunden. Betyder vi i fremtiden kan skære i træ og graverer metal og
+   måske en mulighed for 3D print
+
+** 3D print
+   Indtil flere medlemmer har repraps, en reprap er en 3D printer der
+   er kan printe delene til sig selv. Der printes i samme slags
+   plastik som legoklodser. Der ligges lag på lag med et printhoved
+   der minder om en limpistol.
+
+   Vi har også adgang til profesionelle maksiner via INCUBA
+
+* Andet
+
+** CNC
+   Vi har en hjemmebygget CNC maskine der er blevet brugt til at lave
+   skilte og holdere med.
+
+   Den er også blevet modificeret til at printe med glassur og skrive
+   på æg.
+
+** proccessing.org workshops
+   tekst om processing og vores workshops
+
 
 ** Komponenter
    Vi har et bredt udvalg af komponenter som vores medlemmer kan
@@ -56,60 +96,20 @@ T3:   Næste gang er den 17 april og programmet
    - Motorer
      - stepper, DC, gearing
 
-* 3D
-
-** Photonsaw
-   Et stort project med 80 watts CO2 laser, hjemmebygget fra
-   bunden. Betyder vi i fremtiden kan skære i træ og graverer metal og
-   måske en mulighed for 3D print
-
-** 3D print
-   Indtil flere medlemmer har repraps, en reprap er en 3D printer der
-   er kan printe delene til sig selv. Der printes i samme slags
-   plastik som legoklodser. Der ligges lag på lag med et printhoved
-   der minder om en limpistol.
-
-   Vi har også adgang til profesionelle maksiner via INCUBA
-
-
-** CNC
-   Vi har en hjemmebygget CNC maskine der er blevet brugt til at lave
-   skilte og holdere med.
-
-   Den er også blevet modificeret til at printe med glassur og skrive
-   på æg.
-
-
-* Andet
-** proccessing.org workshops
-   tekst om processing og vores workshops
-
-* Elektronik
-,  - osciloskoper
-  - måleinstrumenter
-  - frekvensgenatorer
-
+       
 
 * Eksotiske maskiner
   - Graverings maskine
   - AS400
   - RC1000
 
-* Mødelokaler
-  - tavler
-  - projector
   - 
+* Ud-af-kælderen
+
+** Open Source Days
+
+** Next
+
+** CCC
 
 
-* Open Source Days
-
-* Next
-
-* Grupper der har brugt OSAA
- - Hack Aarhus
- - Ubuntu Aarhus
- - Seniorer Uden grænser
- - Free Software Europe Fellowship meetings
- - Django
- - Tesla klub
- - Hacking For Humanity
