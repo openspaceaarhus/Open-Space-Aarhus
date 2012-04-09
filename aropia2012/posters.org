@@ -1,0 +1,113 @@
+En lang liste med ting som OSAA har, har lavet eller deltaget i.
+
+T3:   Næste gang er den 17 april og programmet
+
+* Arrangementer
+** T3: Tech Talk Tuesday
+   En månedlig foredrags aften, med 3-6 ligthning talks om spændende
+   teknologi. Der er afsat 15 minutter til et oplæg, det sikre at der
+   er stor variation.
+
+   Vi har haft talks om:
+     - 3D fabrikation
+     - Embedded elektronik
+     - Hacking (sex) 3.0
+     - Kryptering af kabeltv
+     - Arduino
+     - Smartphone Apps
+     - Open Source software in companies 
+     - Fraktaler
+     - Vandraketter
+     - Creative Commons
+     - Og utroligt mange andre interesseante ting!
+
+
+
+** proccessing.org workshops
+   tekst om processing og vores workshops
+** Photonsaw
+   Et stort project med 80 watts CO2 laser, hjemmebygget fra
+   bunden. Betyder vi i fremtiden kan skære i træ og graverer metal og
+   måske en mulighed for 3D print
+
+** 3D print
+   Indtil flere medlemmer har repraps, en reprap er en 3D printer der
+   er kan printe delene til sig selv. Der printes i samme slags
+   plastik som legoklodser. Der ligges lag på lag med et printhoved
+   der minder om en limpistol.
+
+   Vi har også adgang til profesionelle maksiner via INCUBA
+
+** zablet
+   Zablet Arhusiansk Blinkelight Ej Tv
+
+   En universal fjernbetjening med een funktion - slukke tv.
+
+   Et klik og der slukkes for praktisk talt alle fjernsyn.
+
+
+** CNC
+   Vi har en hjemmebygget CNC maskine der er blevet brugt til at lave
+   skilte og holdere med.
+
+   Den er også blevet modificeret til at printe med glassur og skrive
+   på æg.
+
+
+* Maskinpark
+  Vi har mange af de maskiner der ikke er plads til i en lejlighed og
+  som er lidt for dyre at købe til et enkelt projekt.
+  
+  - Drejebænk
+  - Søjleboremaskine
+  - Bordrundsav
+  - håndværktøj
+
+* Elektronik
+  - osciloskoper
+  - måleinstrumenter
+  - frekvensgenatorer
+  - 
+
+* Komponenter
+  Vi har et bredt udvalg af komponenter som vores medlemmer kan
+  bruge. Det betyder at vejen fra tanke til projekt bliver markant kortere.
+
+  - eletronikkomponenter
+    - stort udvalg af forbrugs komponenter, modstande, kapacitorer, kontakter, stik, kasser, ledninger, 7400-logik
+  - Devkits
+    - ARM
+    - ATMEL
+    - PIC
+    - fpga
+    - Analog devices
+    - LIAB
+  - Mekaniske komponenter
+    - skruer, stænger
+    - tandhjul
+  - Motorer
+    - stepper, DC, gearing
+
+
+* Eksotiske maskiner
+  - Graverings maskine
+  - AS400
+  - RC1000
+
+* Mødelokaler
+  - tavler
+  - projector
+  - 
+** CNC
+
+
+* Open Source Days
+
+* Grupper der har brugt OSAA
+ - Hack Aarhus
+ - Ubuntu Aarhus
+ - Seniorer Uden grænser
+ - Free Software Europe Fellowship meetings
+ - Django
+ - Tesla klub
+ - Hacking For Humanity
