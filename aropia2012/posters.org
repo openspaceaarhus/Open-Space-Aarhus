@@ -9,22 +9,52 @@ T3:   Næste gang er den 17 april og programmet
    er stor variation.
 
    Vi har haft talks om:
-     - 3D fabrikation
-     - Embedded elektronik
-     - Hacking (sex) 3.0
-     - Kryptering af kabeltv
-     - Arduino
-     - Smartphone Apps
-     - Open Source software in companies 
-     - Fraktaler
-     - Vandraketter
-     - Creative Commons
-     - Og utroligt mange andre interesseante ting!
+     3D fabrikation, Embedded elektronik, Hacking (sex) 3.0,
+     Kryptering af kabeltv, Arduino, Smartphone Apps, Open Source
+     software in companies , Fraktaler, Vandraketter, Creative
+     Commons, Og utroligt mange andre interesseante ting!
 
+** zablet
+   Zablet Arhusiansk Blinkelight Ej Tv
 
+   En universal fjernbetjening med een funktion - slukke tv.
 
-** proccessing.org workshops
-   tekst om processing og vores workshops
+   Et klik og der slukkes for praktisk talt alle fjernsyn.
+
+* Lokaler
+
+** Bryggervej 30
+
+** Maskinpark
+   Vi har mange af de maskiner der ikke er plads til i en lejlighed og
+   som er lidt for dyre at købe til et enkelt projekt.
+   
+   - Drejebænk
+   - Søjleboremaskine
+   - Bordrundsav
+   - håndværktøj
+
+** Komponenter
+   Vi har et bredt udvalg af komponenter som vores medlemmer kan
+   bruge. Det betyder at vejen fra tanke til projekt bliver markant kortere.
+
+   - eletronikkomponenter
+     - stort udvalg af forbrugs komponenter, modstande, kapacitorer, kontakter, stik, kasser, ledninger, 7400-logik
+   - Devkits
+     - ARM
+     - ATMEL
+     - PIC
+     - fpga
+     - Analog devices
+     - LIAB
+   - Mekaniske komponenter
+     - skruer, stænger
+     - tandhjul
+   - Motorer
+     - stepper, DC, gearing
+
+* 3D
+
 ** Photonsaw
    Et stort project med 80 watts CO2 laser, hjemmebygget fra
    bunden. Betyder vi i fremtiden kan skære i træ og graverer metal og
@@ -38,13 +68,6 @@ T3:   Næste gang er den 17 april og programmet
 
    Vi har også adgang til profesionelle maksiner via INCUBA
 
-** zablet
-   Zablet Arhusiansk Blinkelight Ej Tv
-
-   En universal fjernbetjening med een funktion - slukke tv.
-
-   Et klik og der slukkes for praktisk talt alle fjernsyn.
-
 
 ** CNC
    Vi har en hjemmebygget CNC maskine der er blevet brugt til at lave
@@ -54,39 +77,14 @@ T3:   Næste gang er den 17 april og programmet
    på æg.
 
 
-* Maskinpark
-  Vi har mange af de maskiner der ikke er plads til i en lejlighed og
-  som er lidt for dyre at købe til et enkelt projekt.
-  
-  - Drejebænk
-  - Søjleboremaskine
-  - Bordrundsav
-  - håndværktøj
+* Andet
+** proccessing.org workshops
+   tekst om processing og vores workshops
 
 * Elektronik
   - osciloskoper
   - måleinstrumenter
   - frekvensgenatorer
-  - 
-
-* Komponenter
-  Vi har et bredt udvalg af komponenter som vores medlemmer kan
-  bruge. Det betyder at vejen fra tanke til projekt bliver markant kortere.
-
-  - eletronikkomponenter
-    - stort udvalg af forbrugs komponenter, modstande, kapacitorer, kontakter, stik, kasser, ledninger, 7400-logik
-  - Devkits
-    - ARM
-    - ATMEL
-    - PIC
-    - fpga
-    - Analog devices
-    - LIAB
-  - Mekaniske komponenter
-    - skruer, stænger
-    - tandhjul
-  - Motorer
-    - stepper, DC, gearing
 
 
 * Eksotiske maskiner
@@ -98,10 +96,11 @@ T3:   Næste gang er den 17 april og programmet
   - tavler
   - projector
   - 
-** CNC
 
 
 * Open Source Days
+
+* Next
 
 * Grupper der har brugt OSAA
  - Hack Aarhus
