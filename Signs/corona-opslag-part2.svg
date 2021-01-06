@@ -57,8 +57,8 @@
      inkscape:snap-page="true"
      inkscape:snap-grids="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
+     inkscape:window-height="1171"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -82,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7167,7 +7167,7 @@
          x="547.6015"
          y="105.63412"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Bold';text-align:center;text-anchor:middle;stroke-width:1.06666672"
-         id="tspan2304">Forsamlingsforbud: Max 10 personer.</tspan></text>
+         id="tspan2304">Forsamlingsforbud: Max 5 personer.</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2308"
@@ -7192,7 +7192,7 @@
            height="539.48615"
            x="82.397102"
            y="234.91435" /></flowRegion><flowPara
-         id="flowPara2340"></flowPara></flowRoot>    <text
+         id="flowPara2340" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Bender;-inkscape-font-specification:'Bender Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="87.086334"
@@ -7209,7 +7209,7 @@
          sodipodi:role="line"
          x="87.086334"
          y="272.96475"
-         id="tspan2399">* Der må maksimalt opholde sig 10 personer i lokalet.</tspan><tspan
+         id="tspan2399">* Der må maksimalt opholde sig 5 personer i lokalet.</tspan><tspan
          sodipodi:role="line"
          x="87.086334"
          y="297.96475"
@@ -7225,7 +7225,7 @@
          sodipodi:role="line"
          x="87.086334"
          y="372.96475"
-         id="tspan2348">* Ingen adgang, for ikke-betalende medlemmer uden forudgående aftale med bestyrelsen.</tspan><tspan
+         id="tspan2348">* Ingen adgang, for alle der ikke er betalende medlemmer, uden forudgående aftale med bestyrelsen.</tspan><tspan
          sodipodi:role="line"
          x="87.086334"
          y="397.96475"
@@ -7233,7 +7233,7 @@
          sodipodi:role="line"
          x="87.086334"
          y="422.96475"
-         id="tspan2352">* Tirsdags-hack og alle andre arrangementer uden tilmelding er aflyst.</tspan><tspan
+         id="tspan2352">* Tirsdags-hack og alle andre arrangementer er aflyst.</tspan><tspan
          sodipodi:role="line"
          x="87.086334"
          y="447.96475"
@@ -7241,7 +7241,7 @@
          sodipodi:role="line"
          x="87.086334"
          y="472.96475"
-         id="tspan2395">* Hvis der er flere end 10 personer, så forlad lokalet.</tspan><tspan
+         id="tspan2395">* Hvis der er flere end 5 personer, så forlad lokalet.</tspan><tspan
          sodipodi:role="line"
          x="87.086334"
          y="497.96475"
