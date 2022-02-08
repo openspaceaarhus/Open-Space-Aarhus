@@ -14,15 +14,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="corona-opslag-part2.svg">
+   sodipodi:docname="find-osaa.svg">
   <defs
      id="defs4">
-    <rect
-       x="428.23712"
-       y="59.85558"
-       width="42.982175"
-       height="143.60304"
-       id="rect2794" />
     <linearGradient
        id="linearGradient32160"
        osb:paint="solid">
@@ -35,7 +29,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath6905">
       <rect
-         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.06667"
          id="rect6907"
          width="793.70081"
          height="1122.5197"
@@ -53,17 +47,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="567.03308"
-     inkscape:cy="381.12688"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="576.89632"
+     inkscape:cy="351.33559"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:snap-page="true"
      inkscape:snap-grids="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1171"
-     inkscape:window-x="0"
+     inkscape:window-width="1832"
+     inkscape:window-height="1051"
+     inkscape:window-x="88"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0">
@@ -88,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -537,7 +531,7 @@
         </g>
       </g>
       <g
-         transform="translate(352,5.2203492e-6)"
+         transform="translate(352)"
          id="g7446">
         <g
            transform="matrix(1.0867609,-0.3456525,0.3456525,1.0867609,-156.26718,928.72627)"
@@ -1402,7 +1396,7 @@
       </g>
       <g
          id="g7806"
-         transform="translate(1056,5.2203492e-6)">
+         transform="translate(1056)">
         <g
            id="g7808"
            transform="matrix(1.0867609,-0.3456525,0.3456525,1.0867609,-156.26718,928.72627)">
@@ -2265,7 +2259,7 @@
       </g>
       <g
          id="g8166"
-         transform="translate(352,5.2203492e-6)">
+         transform="translate(352)">
         <g
            id="g8168"
            transform="matrix(1.0867609,-0.3456525,0.3456525,1.0867609,-156.26718,928.72627)">
@@ -3128,7 +3122,7 @@
         </g>
       </g>
       <g
-         transform="translate(1056,5.2203492e-6)"
+         transform="translate(1056)"
          id="g8526">
         <g
            transform="matrix(1.0867609,-0.3456525,0.3456525,1.0867609,-156.26718,928.72627)"
@@ -7033,7 +7027,7 @@
              id="path6111"
              d="m 121.33333,86.644267 9.6096,8.711466 V 127.0176 l -9.6096,8.71147 H 100.80107 L 91.191467,127.0176 V 95.355733 l 9.609603,-8.711466 z m -4.288,10.024533 h -11.95946 l -3.17974,2.9024 v 23.22987 l 3.17974,2.9024 h 11.95946 l 3.17974,-2.9024 V 99.5712 Z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
         </g>
         <g
            id="g6113">
@@ -7041,17 +7035,17 @@
              id="path6115"
              d="m 147.89013,135.728 h -10.7168 V 86.644267 h 28.83094 l 8.84906,8.779733 v 15.83147 l -8.84906,8.77973 H 147.8912 v 15.6928 z m 0,-39.0592 v 13.34187 h 13.47947 l 2.7648,-2.7648 V 99.4336 l -2.7648,-2.7648 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
           <path
              id="path6117"
              d="m 181.08053,86.644267 h 34.0832 V 96.6688 H 191.7984 v 8.43413 h 20.46293 v 10.0224 H 191.7984 v 10.57814 h 23.36533 V 135.728 h -34.0832 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
           <path
              id="path6119"
              d="M 231.41867,135.728 H 220.7008 V 86.644267 h 9.61067 l 16.10986,25.785603 1.79734,4.56426 h 0.2752 l -0.76054,-4.63253 V 86.644267 h 10.7168 v 49.084803 h -9.6096 l -16.10773,-25.7856 -1.80053,-4.56427 h -0.2752 l 0.7616,4.63253 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
         </g>
         <g
            id="g6121">
@@ -7059,7 +7053,7 @@
              id="path6123"
              d="m 90.222933,160.91627 8.7776,-8.78187 H 117.184 l 9.95413,3.39093 -3.248,9.60854 -8.71146,-2.97387 h -11.89014 l -2.34986,2.352 v 1.72587 l 0.8992,1.8688 22.05333,9.54133 2.9024,5.45813 v 9.33227 l -8.77973,8.78187 H 99.7632 l -9.954133,-3.38987 3.248,-9.60853 8.711463,2.9728 H 113.728 l 2.34987,-2.35094 v -1.72693 l -0.8992,-1.86773 -22.053337,-9.54134 -2.9024,-5.45813 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
         </g>
         <g
            id="g6125">
@@ -7067,7 +7061,7 @@
              id="path6127"
              d="M 144.08747,201.22133 H 133.3696 V 152.1344 h 28.82987 l 8.84906,8.78187 v 15.8304 l -8.84906,8.78186 h -18.112 z m 0,-39.0624 V 175.504 h 13.47946 l 2.7648,-2.7648 v -7.81547 l -2.7648,-2.7648 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
         </g>
         <g
            id="g6129">
@@ -7075,17 +7069,17 @@
              id="path6131"
              d="m 195.32373,152.1344 15.83147,47.0816 -10.09387,3.38667 -3.73226,-10.99307 H 181.7728 l -3.38667,10.99307 -10.09386,-3.38667 15.83253,-47.0816 z m -4.56213,18.6656 -0.89813,-5.11253 h -0.27734 L 188.688,170.8 l -3.872,11.47627 h 9.81867 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
           <path
              id="path6133"
              d="m 244.62293,184.5568 7.32694,7.3312 -9.33227,9.33227 h -20.46293 l -8.84907,-8.84907 v -31.3888 l 8.84907,-8.84907 h 19.97866 l 8.84907,8.84907 v 9.1296 h -10.71467 v -5.18827 l -2.768,-2.7648 h -10.71466 l -2.7648,2.7648 v 23.5072 l 2.7648,2.7648 h 11.20106 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
           <path
              id="path6135"
              d="m 256.79573,152.1344 h 34.08214 v 10.02453 H 267.5136 v 8.43627 h 20.46293 v 10.02133 H 267.5136 v 10.5792 h 23.36427 v 10.02454 h -34.08214 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
         </g>
         <g
            id="g6137">
@@ -7093,7 +7087,7 @@
              id="path6139"
              d="m 114.7648,219.76107 15.83253,47.0816 -10.09386,3.38666 -3.73227,-10.99306 h -15.55733 l -3.38667,10.99306 -10.093867,-3.38666 15.832537,-47.0816 z m -4.56213,18.6656 -0.89814,-5.11254 h -0.27733 l -0.89813,5.11254 -3.872,11.47626 h 9.81866 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
         </g>
         <g
            id="g6141">
@@ -7101,27 +7095,27 @@
              id="path6143"
              d="m 160.4032,219.76107 15.83147,47.0816 -10.09387,3.38666 -3.73227,-10.99306 h -15.55626 l -3.38667,10.99306 -10.09387,-3.38666 15.83254,-47.0816 z m -4.56213,18.6656 -0.89814,-5.11254 h -0.27733 l -0.89813,5.11254 -3.872,11.47626 h 9.81866 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
           <path
              id="path6145"
              d="m 219.17333,263.04 -7.67253,7.53493 -19.49547,-19.97866 h -0.89813 v 18.2528 h -10.7168 v -49.088 h 30.00427 l 7.67466,7.6064 v 15.6256 l -7.67466,7.60213 h -2.48747 l -2.42133,-1.17653 -0.1376,0.208 2.4192,1.72693 z m -28.0672,-33.25333 v 10.784 h 13.7568 l 2.48747,-2.55574 v -5.6672 l -2.48747,-2.56 h -13.7568 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
           <path
              id="path6147"
              d="m 251.67253,219.76107 h 10.7168 v 49.088 h -10.7168 v -19.84214 h -16.24426 v 19.84214 H 224.7104 v -49.088 h 10.71787 v 19.22133 h 16.24426 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
           <path
              id="path6149"
              d="m 270.00213,260.06613 v -40.30506 h 10.71574 v 36.29653 l 2.7648,2.76587 h 10.71573 l 2.76693,-2.76587 v -36.29653 h 10.71574 v 40.30506 L 298.832,268.848 h -19.97867 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
           <path
              id="path6151"
              d="m 313.00907,228.544 8.7776,-8.78187 h 18.18346 l 9.95414,3.39094 -3.248,9.60853 -8.71147,-2.97387 h -11.8912 l -2.3488,2.352 v 1.72694 l 0.89813,1.86773 22.0544,9.54133 2.9024,5.45814 v 9.33333 L 340.8,268.84907 h -18.25067 l -9.95413,-3.39094 3.248,-9.60853 8.71147,2.97387 h 11.96053 l 2.34987,-2.352 v -1.72694 l -0.8992,-1.86773 -22.0544,-9.54133 -2.9024,-5.45814 z"
              inkscape:connector-curvature="0"
-             style="fill:#33ff00;stroke-width:1.06666672" />
+             style="fill:#33ff00;stroke-width:1.06667" />
         </g>
       </g>
       <g
@@ -7165,87 +7159,49 @@
      inkscape:label="Text">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:0%;font-family:BiauKai;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667"
-       x="547.6015"
-       y="105.63412"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5403px;line-height:0%;font-family:BiauKai;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.878361"
+       x="559.40302"
+       y="131.804"
        id="text6205"><tspan
          sodipodi:role="line"
-         x="547.6015"
-         y="105.63412"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Bold';text-align:center;text-anchor:middle;stroke-width:1.06667"
-         id="tspan2304">Open Space Aarhus</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2308"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:Bender;-inkscape-font-specification:'Bender Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion2310"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:26.6667px;font-family:Bender;-inkscape-font-specification:'Bender Heavy'"><rect
-           id="rect2312"
-           width="959.61993"
-           height="74.935539"
-           x="85.218948"
-           y="135.55589"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:26.66666603px;font-family:Bender;-inkscape-font-specification:'Bender Heavy'" /></flowRegion><flowPara
-         id="flowPara2322">Vi er her, altså ikke lige her, men nede i kælderen og vi vil gerne have besøg, hvis du døjer med at finde os, så ring til en af os eller se siden:</flowPara></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2334"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Capacitor;-inkscape-font-specification:Capacitor;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion2336"><rect
-           id="rect2338"
-           width="711.17261"
-           height="539.48615"
-           x="82.397102"
-           y="234.91435" /></flowRegion><flowPara
-         id="flowPara2340" /></flowRoot>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Bender;-inkscape-font-specification:'Bender Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="87.086334"
-       y="272.96475"
-       id="text2344"><tspan
-         sodipodi:role="line"
-         x="87.086334"
-         y="272.96475"
-         id="tspan2403" /><tspan
-         sodipodi:role="line"
-         x="87.086334"
-         y="297.96475"
-         id="tspan2358" /></text>
-    <flowRoot
-       transform="translate(344.80808,444.99915)"
-       xml:space="preserve"
-       id="flowRoot2308-3"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:Bender;-inkscape-font-specification:'Bender Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"><flowRegion
-         id="flowRegion2310-6"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:26.6667px;font-family:Bender;-inkscape-font-specification:'Bender Heavy';text-anchor:middle;text-align:center;"><rect
-           id="rect2312-7"
-           width="304.37259"
-           height="75.595825"
-           x="85.218948"
-           y="135.55589"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:26.6667px;font-family:Bender;-inkscape-font-specification:'Bender Heavy';text-anchor:middle;text-align:center;" /></flowRegion><flowPara
-         id="flowPara2328-3">https://find.osaa.dk</flowPara><flowPara
-         id="flowPara2805">Vi ses!</flowPara><flowPara
-         id="flowPara2322-5" /></flowRoot>
+         x="559.40302"
+         y="131.804"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:109.794px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Bold';text-align:center;text-anchor:middle;stroke-width:0.878361"
+         id="tspan6245">Open Space Aarhus</tspan></text>
     <image
-       width="314.82874"
-       height="314.82874"
+       width="297.70432"
+       height="297.70432"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAABjAQMAAAC19SzWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRS
-TlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAADuSURBVDiNzdSxDcMgEAXQQxSULIDEGulY
-ySxghwWSldyxBpIXgI4C+XLIipzGPitFFOTCr/Ln+Bjwc8EfKwNMMYkZBKeCbVBJR3rhNBuPWCL4
-Cxqd0dc0KBBXhM1HGfZkh6L9+Wj8vttD0Sozhn2Ch8q3piv42WhOWPFxs1ltWc5lfH/6R86VQT5A
-rs4ip4IUpI1qCZyw2lKXFZLnVGLSNU3VsKIUoWJW9skpK9BR3qmJnPo5IB2XLJzobAcwgorAifoy
-KooMmhW1VfUZlwui6Yq6pWY0OgzvCZ6J7p9r4Bbk1HuNdivsuX79J/pOL26qtB9hWCipAAAAAElF
-TkSuQmCC
-"
-       id="image2788"
-       x="420.37903"
-       y="245.10814" />
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAABjAQMAAAC19SzWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRS TlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAADuSURBVDiNzdSxDcMgEAXQQxSULIDEGulY ySxghwWSldyxBpIXgI4C+XLIipzGPitFFOTCr/Ln+Bjwc8EfKwNMMYkZBKeCbVBJR3rhNBuPWCL4 Cxqd0dc0KBBXhM1HGfZkh6L9+Wj8vttD0Sozhn2Ch8q3piv42WhOWPFxs1ltWc5lfH/6R86VQT5A rs4ip4IUpI1qCZyw2lKXFZLnVGLSNU3VsKIUoWJW9skpK9BR3qmJnPo5IB2XLJzobAcwgorAifoy KooMmhW1VfUZlwui6Yq6pWY0OgzvCZ6J7p9r4Bbk1HuNdivsuX79J/pOL26qtB9hWCipAAAAAElF TkSuQmCC "
+       id="image843"
+       x="408.38937"
+       y="346.09659" />
     <text
        xml:space="preserve"
-       id="text2792"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Capacitor;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Capacitor;font-stretch:normal;font-variant:normal;text-align:start;writing-mode:lr;white-space:pre;shape-inside:url(#rect2794)" />
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:0%;font-family:BiauKai;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.878361"
+       x="580.71704"
+       y="238.68416"
+       id="text6205-3"><tspan
+         sodipodi:role="line"
+         x="580.71704"
+         y="238.68416"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Bold';text-align:center;text-anchor:middle;stroke-width:0.878361"
+         id="tspan6245-6">Hej, velkommen til, hvis det er tirsdag mellem kl 16 og 21 er der gode chancer for</tspan><tspan
+         sodipodi:role="line"
+         x="580.71704"
+         y="272.01755"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Bold';text-align:center;text-anchor:middle;stroke-width:0.878361"
+         id="tspan7481">at vi er i kælderen, så sig til på mailinglisten, hvis døren er låst.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:0%;font-family:BiauKai;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.878361"
+       x="553.92053"
+       y="678.46509"
+       id="text6205-3-7"><tspan
+         sodipodi:role="line"
+         x="553.92053"
+         y="678.46509"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Bold';text-align:center;text-anchor:middle;stroke-width:0.878361"
+         id="tspan7481-3">https://find.osaa.dk</tspan></text>
   </g>
 </svg>
