@@ -16,6 +16,12 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
+    <rect
+       x="78.619361"
+       y="381.69046"
+       width="218.42126"
+       height="180.50929"
+       id="rect31225" />
     <linearGradient
        id="linearGradient32160"
        inkscape:swatch="solid">
@@ -46,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="576.29203"
-     inkscape:cy="349.31075"
+     inkscape:zoom="1"
+     inkscape:cx="736.5"
+     inkscape:cy="413"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -7203,5 +7209,32 @@
          y="678.46509"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Bold';text-align:center;text-anchor:middle;stroke-width:0.878361"
          id="tspan7481-3">https://find.osaa.dk</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text31223"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:125%;font-family:Bender;-inkscape-font-specification:Bender;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect31225);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="102.25586"
+       y="0"><tspan
+         x="104.93428"
+         y="408.75879"
+         id="tspan49179"><tspan
+   style="font-weight:bold;-inkscape-font-specification:'Bender Bold'"
+   id="tspan49177">Du står ved:</tspan>
+</tspan><tspan
+         x="187.83008"
+         y="445.42542"
+         id="tspan49181">
+</tspan><tspan
+         x="84.107691"
+         y="482.09204"
+         id="tspan49183">Nord indgangen
+</tspan><tspan
+         x="93.714385"
+         y="518.75867"
+         id="tspan49185">Syd indgangen
+</tspan><tspan
+         x="98.260982"
+         y="555.42529"
+         id="tspan49187">Nødudgangen</tspan></text>
   </g>
 </svg>

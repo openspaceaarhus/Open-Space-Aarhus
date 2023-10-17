@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="alarm.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77058782"
+     inkscape:cx="383.47349"
+     inkscape:cy="665.72555"
+     inkscape:window-width="1832"
+     inkscape:window-height="1051"
+     inkscape:window-x="88"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="83.380996"
+       y="416.81881"
+       width="630.50305"
+       height="393.58081"
+       id="rect4846" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect846"
+       width="155"
+       height="65"
+       x="27.5"
+       y="32.953758"
+       rx="4.99999"
+       ry="4.99999" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.57605446,3.235853)"
+       id="text4844"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333336px;line-height:125%;font-family:Bender;-inkscape-font-specification:Bender;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect4846);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="83.380859"
+         y="436.50375"
+         id="tspan54748">Alarmen i bygningen bliver slået til automatisk hver dag kl 23:45
+</tspan><tspan
+         x="83.380859"
+         y="463.17041"
+         id="tspan54750">
+</tspan><tspan
+         x="83.380859"
+         y="489.83707"
+         id="tspan54752">Du kan undgå at alarmen bliver slået til 5 minutter før.
+</tspan><tspan
+         x="83.380859"
+         y="516.50372"
+         id="tspan54754">
+</tspan><tspan
+         x="83.380859"
+         y="543.17038"
+         id="tspan54756">Hvis du starter alarmen skal du:
+</tspan><tspan
+         x="83.380859"
+         y="569.83707"
+         id="tspan54758">1: Slå alarmen fra
+</tspan><tspan
+         x="83.380859"
+         y="596.50375"
+         id="tspan54760">2: Ringe til Alarm centralen og aflyse vagten.
+</tspan><tspan
+         x="83.380859"
+         y="623.17044"
+         id="tspan54762">
+</tspan><tspan
+         x="83.380859"
+         y="649.83713"
+         id="tspan54764">Proceduren er beskrevet her: https://alarm.osaa.dk
+</tspan><tspan
+         x="83.380859"
+         y="676.50381"
+         id="tspan54766">
+</tspan><tspan
+         x="83.380859"
+         y="703.1705"
+         id="tspan54768">
+</tspan></text>
+    <image
+       width="71.203606"
+       height="71.203606"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAABjAQMAAAC19SzWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRS
+TlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAADtSURBVDiNzdSxbcUgEAbgQy7c2QsgsQYd
+K5kJeFkgXomONZBYADoKlD/3ZCnvNfa5SKRc5a84+ec4m/Be9I9VibaZVCQlqWFsc/aJHyRF7eNQ
+ifwNbbZ83FPAe9+5MHw37ZXsVHw+nzjOz2lPxfXlTHtN8FTVUehoPStJDeXB08W0S6qkfddrzEHW
+hMhxxioJUa/JfNKR5UrVFvB0YXZJgF7m8rAUZE0t6cDBJVWbVcxER9+VuKrTHgaS+G5D5+uV9dxr
+3kEcb7gUb6ubuFvdUEh5oXFPQCq7KM7i9GJplfT8pimvGErS3/97fkPfsliptwwmKAoAAAAASUVO
+RK5CYII=
+"
+       id="image28786"
+       x="69.398193"
+       y="217.60791" />
+  </g>
+</svg>
